@@ -55,6 +55,7 @@
     "@angular/forms": "5.2.11",
     "@angular/platform-browser": "5.2.11",
     "@angular/platform-browser-dynamic": "5.2.11",
+    "@firebase/database": "^0.2.1",
     "@ionic-native/badge": "4.20.0",
     "@ionic-native/camera": "4.20.0",
     "@ionic-native/chooser": "^4.20.0",
